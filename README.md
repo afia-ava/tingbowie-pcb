@@ -11,3 +11,5 @@ Components:
 
 More detailed updates in the journal folder. 
 Feel free to ping me on slack to share feedback/suggestions. 
+
+![Tingbowie PCB](images/soldered-pcb.jpeg)
